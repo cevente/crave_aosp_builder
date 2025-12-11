@@ -11,7 +11,7 @@ LOS 18.1:
   ignoreClientHostname: true
 LOS 21:
   ignoreClientHostname: true
-LOS 22:
+LOS 23.1:
   ignoreClientHostname: true
 PixelOS:
   ignoreClientHostname: true
@@ -23,3 +23,4 @@ LOS CM 14.1:
   ignoreClientHostname: true
 
 #ignoreClientHostname is used to keep persistence by ignoring the client hostname
+
